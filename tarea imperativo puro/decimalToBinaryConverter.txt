@@ -1,0 +1,8 @@
+Modelos II
+  Integrantes:
+  Julian Esteban Mendoza Wilches - 20182020054
+  Cristian Javier Martinez Blanco - 20182020155
+
+Link del REPL:
+
+https://repl.it/@CristianMartin9/decimalToBinaryConverter#main.py
