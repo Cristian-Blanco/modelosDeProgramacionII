@@ -1,6 +1,7 @@
     // Modelos de Programacion 2
     // Nombre: Cristian Javier Martinez Blanco
     // Codigo: 20182020155 
+    
 function converter(num, base){
     num = parseInt(num);
     result = num.toString(base);
